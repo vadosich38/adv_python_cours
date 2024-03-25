@@ -4,16 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ac0591-43d6-4905-8de2-2827f3eeab4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module2/2.5/4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module2/2.5/5/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module2/2.5/6/docs/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module2/2.5/6/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module2/2.5/7/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="26ac0591-43d6-4905-8de2-2827f3eeab4c" name="Changes" comment="Module2">
+      <change afterPath="$PROJECT_DIR$/Module3/module3.3/task1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.3/task1/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.3/task1/tests/test_social_status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.5/task1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.5/task1/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.5/task1/tests/test_hellouser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.5/task2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.5/task2/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.5/task2/tests/test_get_max_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.5/task3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.5/task3/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.5/task3/tests/test_work_with_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.7/task1/SetUpClass_TearDownClass/example_setUpClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.7/task1/SetUpClass_TearDownClass/example_tearDownClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.7/task1/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.7/task1/setUp/v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.7/task1/setUp/v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.7/task1/test_time_tracking/test_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.8/task1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.8/task1/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.8/task1/tests/test_get_hallo_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.8/task2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.8/task2/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.8/task2/tests/test_decoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.8/task3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.8/task3/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.8/task3/tests/test_money_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.8/task4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.8/task4/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/module3.8/task4/tests/test_person_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/2.3/1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/2.3/1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,19 +73,38 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Unittests in Module3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Unittests in adv_python_cours.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Unittests in task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Unittests in tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;module2&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/vlad/PycharmProjects/adv_python_cours/Module2/2.5/6&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;git-widget-placeholder&quot;: &quot;Module3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vlad/PycharmProjects/adv_python_cours/Module3/module3.5/task1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="adv_python_cours" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="adv_python_cours" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Module3/module3.5/task2" />
+      <recent name="$PROJECT_DIR$/Module3/module3.5/task1" />
       <recent name="$PROJECT_DIR$/Module2/2.5/3" />
       <recent name="$PROJECT_DIR$/Module2/2.5/2" />
       <recent name="$PROJECT_DIR$/Module2/2.5/1" />
-      <recent name="$PROJECT_DIR$/Module2/2.3/1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Module3/module3.7/task1/setUp" />
+      <recent name="$PROJECT_DIR$/Module3/module3.3/task1" />
     </key>
   </component>
   <component name="RunManager">
@@ -105,6 +148,15 @@
       <option name="presentableId" value="Default" />
       <updated>1710178520667</updated>
     </task>
+    <task id="LOCAL-00001" summary="Module2">
+      <option name="closed" value="true" />
+      <created>1710337186668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710337186668</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
